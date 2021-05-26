@@ -5,11 +5,12 @@
 #### The dataset for this project can be got from https://www.kaggle.com/heptapod/titanic.
 
 ________________________________________________________________________________________________________________
-#### The main objective of this project is to predict if an sms is a spam or not. 
+#### The main objective of this project is to predict if a person will survive during the titanic incident. 
 #### The different models that have been used to try to predict this are -
     ANN
     SVM
     Logistic Regressing using GridSearchCV
+    Random Forest
 
 #### The different libraries that have been used are :
     Pandas
@@ -20,8 +21,9 @@ ________________________________________________________________________________
     Keras
     
 #### The accuracies achieved for the different models are :
-    ANN : 86.547 %
-    SVM : 97.937 %
-    Logistic Regression : 96.413 %
+    ANN : 74.55 %
+    SVM : 85.24 %
+    Logistic Regression : 84.08 %
+    Random Forest : 85.24%
     
 #### As we can see Light GBM has the highest accuracy which is 97.937%
