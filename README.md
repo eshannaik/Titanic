@@ -2,7 +2,8 @@
 
 
 #### This project was done on Google Colab.
-#### The dataset for this project can be got from https://www.kaggle.com/heptapod/titanic.
+#### The dataset for the titanic project can be got from https://www.kaggle.com/c/titanic/data.
+#### The dataset for the old titanic.py is https://www.kaggle.com/heptapod/titanic
 
 ________________________________________________________________________________________________________________
 #### The main objective of this project is to predict if a person will survive during the titanic incident. 
